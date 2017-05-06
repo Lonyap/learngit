@@ -16,3 +16,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 git diff
+
+haha today is satuday
