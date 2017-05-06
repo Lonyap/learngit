@@ -1,2 +1,13 @@
-Git is a distributed version control system.
-Git is free software.
+git init 
+
+git add file
+git commit -m " "
+
+git status
+
+git diff file   is use to check the different
+
+git log  
+git log --pretty=onelilne
+
+
