@@ -19,6 +19,7 @@ git reset --hard HEAD^
 
 
 工作区和暂存区
+用git diff HEAD -- myfile  命令可以查看工作区和版本库里面最新版本的区别
 
 
 
